@@ -1,6 +1,6 @@
 ![Banner Image](./github.jpg)
 
-### Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,express,mongodb)](https://skillicons.dev)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

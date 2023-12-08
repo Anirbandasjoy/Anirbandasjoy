@@ -7,6 +7,10 @@
     <img src="https://skillicons.dev/icons?i=react,js,express,mongodb,nodejs,html,css,tailwindcss,firebase,bootstrap" />
   </a>
 </p>
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anirbandasjoy&theme=algolia)](https://git.io/streak-stats)
+</div>
 
 ## Projects
 

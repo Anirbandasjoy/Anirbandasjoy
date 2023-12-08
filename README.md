@@ -1,6 +1,12 @@
 ![Banner Image](./github.jpg)
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,express,mongodb)](https://skillicons.dev)
+#Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,express,mongodb,node,html,css,tailwindcss,firebase,bootstrap,daisyui" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

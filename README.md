@@ -13,7 +13,7 @@ overcome challenges, and deliver impactful solutions
 <div align="center">
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&theme=algolia&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirbandasjoy&theme=algolia&show_icons=true)
 </div>
 
 

@@ -9,7 +9,7 @@
 </div>
 
 
-## technology and tools
+## Technology and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -65,11 +65,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working on expanding my expertise in [specific technology or project].
-- 🌱 I’m currently learning [new skill or technology].
+- 🔭 I’m currently working on expanding my expertise in [MERN Stack].
+- 🌱 I’m currently learning [Nextjs].
 - 👯 I’m looking to collaborate on innovative projects that push boundaries.
-- 🤔 I’m looking for help with [specific challenge or area].
 - 💬 Ask me about anything related to frontend development, React, or the MERN stack.
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting fact about yourself]
+- 📫 How to reach me: [joy600508@gmail.com](mailto:joy600508@gmail.com)
+  

@@ -33,42 +33,9 @@ overcome challenges, and deliver impactful solutions
 - 📫 How to reach me: [joy600508@gmail.com](mailto:joy600508@gmail.com)
 
 
-## Projects
-
-### 1. Project-1
-
-- **Project Name:** TouristTreasuresBD
-- **Website Type:** Dynamic Tour Selling Platform
-- **Live Site:** [TouristTreasuresBD](https://assignment12-848ad.web.app)
-- **GitHub Client Site Repository:** [TouristTreasuresBD (Client)](https://github.com/Anirbandasjoy/TouristTreasuresBD-Client)
-- **GitHub Server Site Repository:** [TouristTreasuresBD (Server)](https://github.com/Anirbandasjoy/TouristTreasuresBD-Server)
-
-### Features
-- **Effortless Booking and Payment Process**
-  - Users can swiftly log in, book preferred tour packages, and conveniently pay through credit cards, ensuring a seamless experience.
-
-- **Interactive User Roles and Dashboard Features**
-  - Three distinct user roles - Tourist, Guide, and Admin, each with specialized dashboard functionalities.
+## Pinned
 
 
-### Technology Used
-
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,mongodb,stripe" />
-  </a>
-
-
-### 2. Project-2
-
-- **Project Name:** Tour Sport
-- **Website Type:** Dynamic Service Management Platform
-- **Live Site:** [Tour Sport](https://tour-sport.web.app)
-- **GitHub Client Site Repository:** [Tour Sport (Client)](https://github.com/Anirbandasjoy/tour-sport-client)
-- **GitHub Server Site Repository:** [Tour Sport (Server)](https://github.com/Anirbandasjoy/tour-sport-server)
-
-### Features
-- **Dynamic Dashboard for Service Management**
-  - Users can easily track their booked services and modify service status on the My Schedule page, ensuring seamless service management.
 
 
 ### Technology Used

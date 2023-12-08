@@ -37,7 +37,6 @@ overcome challenges, and deliver impactful solutions
 
 
 
-
 ### Technology Used
 
  <a href="https://skillicons.dev">
@@ -45,33 +44,6 @@ overcome challenges, and deliver impactful solutions
   </a>
 
 
-### 3. Project-3: Brand Shop
-
-- **Website Type:** E-commerce Platform for Electronic Devices
-- **Live Site:** [Brand Shop](https://brand-shop-610c8.web.app)
-- **GitHub Client Site Repository:** [Brand Shop (Client)](https://github.com/your-username/brand-shop-client)
-- **GitHub Server Site Repository:** [Brand Shop (Server)](https://github.com/your-username/brand-shop-server)
-
-### Features
-- **User Registration and Login Process**
-  - The website includes a user login registration process with private routes accessible only after registration.
-- **E-commerce Functionality**
-  - Users can easily purchase electronic devices from seven different brands.
-- **Brand-specific Data and Product Management**
-  - Clicking on each brand allows users to view data related to that brand, and there's an option to update products directly from the product page.
-- **Product Details and Update**
-  - Each product card has a details button to view all product details, and users can update products by clicking on the update button.
-- **Shopping Cart Functionality**
-  - Products can be added to the cart from the details page, and ordered products are displayed on the cart page.
-- **Product Removal from Cart**
-  - Users can remove products from the cart if desired.
-- **Brand-specific Product Display**
-  - Clicking on each brand reveals separate products for each brand on the product page, along with three different ads.
-  
-### Technology Used
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,mongodb" />
-  </a>
 
 
 

@@ -35,11 +35,8 @@ overcome challenges, and deliver impactful solutions
 - 📫 How to reach me: [joy600508@gmail.com](mailto:joy600508@gmail.com)
 
 
-### Technology Used
 
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,mongodb" />
-  </a>
+
 
 
 

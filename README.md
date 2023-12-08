@@ -1,6 +1,6 @@
 ![Banner Image](./github.jpg)
 
-#Skills
+# Skills
 
 <p align="center">
   <a href="https://skillicons.dev">

@@ -33,10 +33,6 @@ overcome challenges, and deliver impactful solutions
 - 📫 How to reach me: [joy600508@gmail.com](mailto:joy600508@gmail.com)
 
 
-## Pinned
-
-
-
 ### Technology Used
 
  <a href="https://skillicons.dev">

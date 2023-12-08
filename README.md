@@ -11,8 +11,9 @@ overcome challenges, and deliver impactful solutions
 
 
 <div align="center">
+  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anirbandasjoy&theme=algolia)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&theme=algolia&show_icons=true)
 </div>
 
 

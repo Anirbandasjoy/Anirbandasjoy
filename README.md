@@ -1,4 +1,4 @@
-# ![Banner Image](./github.jpg) 
+# ![Banner Image](https://i.ibb.co/Y8rpYcz/Black-Technology-Linked-In-Banner.png) 
 
 # Hi, I'm Joy Das
 

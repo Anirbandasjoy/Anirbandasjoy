@@ -22,7 +22,7 @@ overcome challenges, and deliver impactful solutions
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,express,mongodb,nodejs,java,python,html,css,tailwindcss,firebase,bootstrap,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,express,mongodb,postgres,nodejs,java,python,html,css,tailwindcss,firebase,bootstrap,git,github,figma,vscode" />
   </a>
 </p>
 

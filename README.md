@@ -26,28 +26,6 @@ overcome challenges, and deliver impactful solutions
   </a>
 </p>
 
-## Current Stats 📊
-
-<p align="center">
-<a href="https://github.com/monjurBakthMazumder">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monjurBakthMazumder&theme=merko&border=7F3FBF&background=0D1117" alt="monjurBakthMazumder's GitHub streak" width="100%"/>
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/monjurBakthMazumder">
-<img src="https://github-readme-stats.vercel.app/api?username=monjurBakthMazumder&show_icons=true&theme=highcontrast" width="100%"/>
-</a>
-</p>
-<p align="center">
-
-<a href="https://github.com/monjurBakthMazumder">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurBakthMazumder&theme=outrun" width="100%"/>
-</a>
-<a href="https://github.com/monjurBakthMazumder"> 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monjurBakthMazumder&theme=outrun" width="49.5%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monjurBakthMazumder&theme=outrun&utcOffset=8" width="49.5%"/>
-</a>
-</p>
 
 ## About Me
 

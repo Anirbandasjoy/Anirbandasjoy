@@ -1,4 +1,4 @@
-# ![Banner Image](https://i.ibb.co/Y8rpYcz/Black-Technology-Linked-In-Banner.png) 
+# ![Banner Image](https://i.ibb.co.com/Cs7smWj3/flinkedin.png) 
 
 # Hi, I'm Joy Das
 
